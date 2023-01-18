@@ -1,5 +1,0 @@
-GET wss://gij.edu.gh/ HTTP/1.1[crlf]Host: sggs23.hostip.co[crlf]Expect: 100-Continue[crlf]Via: HTTP/3.0[crlf]Connection: upgrade[crlf]Proxy-Connection: keep-alive[crlf]Upgrade: websocket, HTTP/3.0[crlf]Sec-WebSocket-Extensions: superspeed[crlf][crlf]
-
-caws1.sshstores.vip
-
-GET wss://gij.edu.gh/ HTTP/1.1[crlf]Host:ca2.sshws.me[crlf]Connection:Upgrade[crlf]User-Agent: [ua][crlf]Upgrade:websocket[crlf][crlf]
